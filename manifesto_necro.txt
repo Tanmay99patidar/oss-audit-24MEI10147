@@ -1,0 +1,29 @@
+========================================
+   MY OPEN SOURCE MANIFESTO
+   Generated on: 29 March 2026
+   By: necro
+========================================
+
+I believe in the power of open source software.
+
+Every day, I rely on git — a tool that exists
+not because a corporation decided to sell it,
+but because someone chose to share it freely with the world.
+
+To me, freedom means time.
+In the world of software, that freedom is not just a feature —
+it is the foundation. The freedom to read the code,
+to change it, to learn from it, and to pass it on.
+
+One day, I want to build performance scripts and release it openly,
+because I understand now that the tools I depend on
+were built by people who made that same choice.
+
+The Linux Kernel started as one student's hobby project.
+Today it runs the internet, the cloud, and every Android phone.
+That is what happens when knowledge is set free.
+
+This is my commitment to open source.
+
+Signed: necro | 29 March 2026
+========================================
