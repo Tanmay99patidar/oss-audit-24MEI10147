@@ -69,7 +69,7 @@ sudo ./script4_log_analyzer.sh /var/log/syslog error
 - **Privileges:** `sudo` access is required for `script4_log_analyzer.sh` to read system-level logs.
 
 ## Submission Information
-This repository is submitted as part of the VITyarthi OSS NGMC Capstone Project by [Tanmay Patidar] ([24MEI10147]). All scripts are designed and tested for Ubuntu-based Linux distributions.
+This repository is submitted as part of the VITyarthi OSS NGMC Capstone Project by [Tanmay Patidar] ([24MEI10147]). All scripts are designed and tested for Fedora-based Linux distributions.
 
 ---
 **License:** Distributed under the terms of the GNU General Public License v2 (GPL-2.0).
